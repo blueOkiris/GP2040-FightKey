@@ -14,12 +14,12 @@
 #define PIN_DPAD_LEFT   4
 #define PIN_BUTTON_B1   9 // LK
 #define PIN_BUTTON_B2   10 // MK
-#define PIN_BUTTON_R2   12 // AK
-#define PIN_BUTTON_L2   16 // AP
+#define PIN_BUTTON_R2   16 // AK
+#define PIN_BUTTON_L2   12 // AP
 #define PIN_BUTTON_B3   13 // LP
 #define PIN_BUTTON_B4   17 // MP
-#define PIN_BUTTON_R1   15 // HK
-#define PIN_BUTTON_L1   11 // HP
+#define PIN_BUTTON_R1   11 // HK
+#define PIN_BUTTON_L1   15 // HP
 #define PIN_BUTTON_S1   8 // Select
 #define PIN_BUTTON_S2   7 // Start
 
